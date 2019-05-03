@@ -1,1 +1,4 @@
 env/
+data/*.bigWig
+data/*.gz
+data/*.bigBed
